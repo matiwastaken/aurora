@@ -1,4 +1,4 @@
-# Biolink | A Simple CSS/JS/HTML Bio  
+# aurora | A Simple CSS/JS/HTML Bio  
 
 ### Notes:  
 - Edit your button redirects.  
