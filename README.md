@@ -1,4 +1,9 @@
-# biolink-v2
-yeah!
+# biolink | a simple ass css/js/html bio
 
-you can use it, credit would be nice but its optional
+note: edit your button rederects
+note: edit ur discord id, and join discord.gg/lanyard
+
+# credits
+credit would be nice but its optional
+
+
