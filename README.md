@@ -1,23 +1,25 @@
-# biolink | a simple ass css/js/html bio
+# Biolink | A Simple CSS/JS/HTML Bio  
 
-note: edit your button rederects
-note: edit ur discord id, and join discord.gg/lanyard
+### Notes:  
+- Edit your button redirects.  
+- Update your Discord ID and join [discord.gg/lanyard](https://discord.gg/lanyard).  
 
-# preview
-newest (2.1)
-![image](https://github.com/user-attachments/assets/2d6a22f7-e219-4c3b-87c5-f381311652c1)
+## Preview  
 
-older (2.0)
-![image](https://github.com/user-attachments/assets/95797aa5-9109-49d0-bb50-eae24d5b8e65)
-at /old
+### Newest (2.1)  
+![image](https://github.com/user-attachments/assets/2d6a22f7-e219-4c3b-87c5-f381311652c1)  
 
-oldest (1.0)
-![image](https://github.com/user-attachments/assets/5ff2ebe0-2c9c-4556-8fa9-ee0973482760)
+### Older (2.0)  
+![image](https://github.com/user-attachments/assets/95797aa5-9109-49d0-bb50-eae24d5b8e65)  
+Available at `/old`.  
 
-if u somehow like this, its at: https://github.com/matthevreal/biolink
+### Oldest (1.0)  
+![image](https://github.com/user-attachments/assets/5ff2ebe0-2c9c-4556-8fa9-ee0973482760)  
 
+---  
 
-# credits
-credit would be nice but its optional
+If you somehow like 1.0 u can find it here:
+[GitHub: matthevreal/biolink](https://github.com/matthevreal/biolink)  
 
-
+## Credits  
+Giving credit would be nice, but it's optional. 
