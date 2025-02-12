@@ -13,13 +13,6 @@
 ![image](https://github.com/user-attachments/assets/95797aa5-9109-49d0-bb50-eae24d5b8e65)  
 Available at `/old`.  
 
-### Oldest (1.0)  
-![image](https://github.com/user-attachments/assets/5ff2ebe0-2c9c-4556-8fa9-ee0973482760)  
-
----  
-
-If you somehow like 1.0 u can find it here:
-[GitHub: matthevreal/biolink](https://github.com/matthevreal/biolink)  
 
 ## Credits  
 Giving credit would be nice, but it's optional. 
