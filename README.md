@@ -16,3 +16,5 @@ Available at `/old`.
 
 ## Credits  
 Giving credit would be nice, but it's optional. 
+
+note to myself: fix bgs you stupid
