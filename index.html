@@ -16,7 +16,7 @@
         }
 
 body {
-    background: url('bg.mp4') center/cover no-repeat fixed,
+    /* messed up here */
     linear-gradient(45deg, #090909 0%, #1a1a1a 100%);
     color: #ffffff;
     min-height: 100vh;
@@ -52,6 +52,15 @@ body {
             animation: spin 0.7s linear infinite;
             box-shadow: 0 0 30px rgba(238, 107, 255, 0.3);
         }
+     #bgVideo {
+       position: fixed;
+       top: 0;
+       left: 0;
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    z-index: -2;
+}
 
         @keyframes spin {
             0% { transform: rotate(0deg); }
@@ -282,10 +291,30 @@ body {
         <button class="enter-button">[ click me ]</button>
     </div>
 
+<body>
+    <video autoplay muted loop id="bgVideo">
+        <source src="bg.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+
+    <div class="loader-wrapper">
+        <div class="loader"></div>
+    </div>
+
+    <div class="custom-cursor"></div>
+
+    <div class="landing">
+        <button class="enter-button">[ click me ]</button>
+    </div>
+
     <div class="container">
         <div class="profile-container">
             <div class="lanyard"></div>
             <img src="me.png" alt="pfp" class="profile-pic">
+        </div>
+        <h1>matthew</h1>
+        <p id="bio"></p>
+
         </div>
         <h1>matthew</h1>
         <p id="bio"></p>
